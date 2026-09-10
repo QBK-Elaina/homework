@@ -1,6 +1,10 @@
 #Why Are We Here?
 
+##Describing vs. Specifying
+
 In an era where language models can generate functional code from a simple sentence, what does learning programming mean for designers or artists? The answer does not lie in competing with machines on the speed of writing code, but in mastering the ability to "read, evaluate, and direct." Programming is no longer just about memorizing syntax; it is about acquiring a critical judgment—the ability to scrutinize whether machine-generated code truly serves your creative intent.
+
+##From Drafting to Adjudication: My Practical Experience
 
 Anyone can ask an AI for "an innovative game mechanic." However, a massive gap exists between a vague linguistic description and a precise programmatic specification. Before undergoing systematic programming education, creators often find themselves in a state of "knowing that it works, but not knowing why." We only know that a program runs successfully, yet we remain ignorant of its underlying principles, let alone capable of judging whether this successful program aligns with the "imagined design" in our minds. Relying on black-box systems causes us to lose control over the foundational layers of our work. As I deeply realized through my undergraduate practice: "I may choose not to write it, but I must know how."
 
@@ -10,6 +14,8 @@ That exact transformation changed everything. In the process of doing the work m
 
 By my senior year graduation project, I chose to work independently; game mechanics design, Unity programming, and technical art all fell on my shoulders alone. To drive efficiency, I handed off a large portion of code-writing tasks to the AI while focusing my energy on high-level mechanic design. This time, my workflow was entirely different. Because I possessed deep capabilities in underlying decomposition and reading, I could cleanly slice my design logic into pieces and feed them to the AI for execution. Whenever the machine occasionally output an erroneous script, I was able to instantly read where the problem lay within the code and directly make manual modifications.
 
+
+##Conclusion: Beware of becoming a "mute" in the digital age.
 Programming is an expressive medium, not a mere technical chore. If creators completely outsource their code while remaining utterly ignorant of the medium, they will become "mute" when the AI hits its upper limits, or worse, trapped within the mediocre templates dictated by the model's training data. Learning to program in the age of AI is not about memorizing tedious syntax; it is about defending one's authorship as a creator. AI is an exceptional translator, but if you do not understand the language yourself, you will never know whether the translator has distorted your true soul.
 
 #References
